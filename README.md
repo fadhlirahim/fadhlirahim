@@ -2,7 +2,7 @@
 
 Currently working on bootstrapping my own solo tech product. 
 
-I do consultation for early stage startup founders and also contract work on Ruby on Rails & Elixir projects.
+I do consultation for early stage startup founders and also contract work on Ruby on Rails & Elixir Phoenix projects.
 
 Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
 
