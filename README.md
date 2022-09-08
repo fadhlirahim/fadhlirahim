@@ -1,16 +1,21 @@
-### Hi there 👋
+### Fadhli Rahim
 
-<!--
-**fadhlirahim/fadhlirahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on bootstrapping my own solo tech product. Does contracting on the side.
 
-Here are some ideas to get you started:
+Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <i>About</i>
+-  **Learning:** Elixir, Phoenix LiveView:zap:
+-  **Want to Learn :** Rust
+-  **Languages:** Ruby, JavaScript 💻
+-  **Other Tech  :** Docker, AWS, Cloudflare, Terraform, Postgres, Redis 💻
+-  **Hobbies :** Art :art:, Music :notes:, Sci-Fi & Fantasy lore :crossed_swords:
+
+
+### Reach me at
+
+https://twitter.com/_fadhli
+
+https://linkedin.com/in/fadhlirahim
+
+
