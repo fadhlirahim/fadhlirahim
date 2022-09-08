@@ -14,10 +14,5 @@ Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Vik
 -  **Hobbies :** Art :art:, Music :notes:, Sci-Fi & Fantasy lore :crossed_swords:
 
 
-### Reach me at
-
-https://twitter.com/_fadhli
-
-https://linkedin.com/in/fadhlirahim
 
 
