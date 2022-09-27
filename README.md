@@ -1,6 +1,6 @@
 ### Fadhli Rahim
 
-Currently working on bootstrapping my own solo tech product and does freelancing.
+Currently learning Phoenix LiveView
 
 Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
 
