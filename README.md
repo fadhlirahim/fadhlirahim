@@ -6,9 +6,9 @@ Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Vik
 
 ### <i>About</i>
 -  **Learning:** Elixir, Phoenix LiveView:zap:
--  **Want to Learn :** Rust, StableDiffusion 
+-  **Want to Learn :** Rust, StableDiffusion
 -  **Languages:** Ruby, Elixir, JavaScript 💻
--  **Technologies  :** Docker, AWS, Cloudflare (DNS, Workers, Pages), Terraform, Postgres, Redis, FFMpeg 💻, CircleCI, Semaphore CI/CD
+-  **Technologies  :** Docker, AWS, Cloudflare (DNS, Workers, Pages), Terraform, Postgres, Redis, FFMpeg, Sidekiq, CircleCI, Semaphore CI/CD :hammer: :wrench:
 -  **Hobbies :** Art :art:, Music :notes:, Sci-Fi & Fantasy lore :crossed_swords:
 
 
