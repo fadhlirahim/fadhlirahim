@@ -1,6 +1,6 @@
 ### Fadhli Rahim
 
-Currently learning Phoenix LiveView
+SWE/EM for 10+ YOE.
 
 Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
 
