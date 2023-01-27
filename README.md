@@ -1,6 +1,8 @@
 ### Fadhli Rahim
 
-SWE/EM with 10+ YOE.
+SWE/EM with 15+ YOE.
+
+Currently Head of Engineering @ [Silentmode](https://silentmode.co/)
 
 Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
 
