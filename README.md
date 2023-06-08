@@ -2,7 +2,7 @@
 
 SWE/EM with 15+ YOE.
 
-Currently Head of Engineering @ [Silentmode](https://silentmode.co/)
+Currently Head of Engineering @ [Silentmode](https://silentmode.my/)
 
 Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
 
@@ -12,7 +12,6 @@ Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Vik
 -  **Languages:** Ruby, Elixir, JavaScript 💻
 -  **Technologies  :** Docker, AWS, Cloudflare (DNS, Workers, Pages), Terraform, Postgres, Redis, FFMpeg, Sidekiq, CircleCI, Semaphore CI/CD :hammer: :wrench:
 -  **Hobbies :** Art :art:, Music :notes:, Sci-Fi & Fantasy lore :crossed_swords:
-
 
 
 
