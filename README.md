@@ -1,11 +1,5 @@
 ### Fadhli Rahim
 
-SWE/EM with 15+ YOE.
-
-Currently Head of Engineering @ [Silentmode](https://silentmode.my/)
-
-Previously CTO/Co-Founder ([Popsical](https://popsical.com), Series A), SWE@[Viki](https://viki.com) (Rakuten acquisition, series B exit)
-
 ### <i>About</i>
 -  **Learning:** Elixir, Phoenix LiveView:zap:, Zig
 -  **Want to Learn :** Rust, StableDiffusion
