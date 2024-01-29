@@ -1,7 +1,7 @@
 ### Fadhli Rahim
 
 ### <i>About</i>
--  **Learning:** Rust :zap:
+-  **Learning:** Rust, LLMs :zap:
 -  **Want to Learn :** Zig 
 -  **Languages:** Ruby, Elixir, Go, JavaScript 💻
 -  **Technologies  :** Docker, AWS (EC2, VPC, Fargate, RDS, Lambda, SQS, SNS, CF, Kinesis, Glue, S3), Cloudflare (DNS, Workers, Pages), Terraform, Postgres, Redis, FFMpeg, Sidekiq, CircleCI, Semaphore CI/CD, Tailwindcss, React :hammer: :wrench:
